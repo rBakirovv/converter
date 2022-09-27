@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  justify-content: center;
+}
+
+.header__container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+.header__title {
+  color: #fff;
+  margin: 0;
+}
