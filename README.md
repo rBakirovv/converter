@@ -16,4 +16,4 @@
   ├── vendor - normalise.css
 ...
 ```
-[Скриншот](https://github.com/rBakirovv/converter/blob/main/src/screenshots/main.png?raw=true)
+![Скриншот](https://github.com/rBakirovv/converter/blob/main/src/screenshots/main.png?raw=true)
